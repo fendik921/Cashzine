@@ -2,8 +2,8 @@
 system('clear');
 
 $banner = "\033[1;31m
-Creator : JEMOY         
-YOUTUBE: I HACK U !   
+Creator : FendikXD
+FECEBOOK: Fendik.onni.5 !   
 RISK :    DONT FORGET TO TAKE A BREAK   
 
 ";
